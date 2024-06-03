@@ -18,10 +18,10 @@ const Statistics = () => {
             <div className="items-center text-container justify-center flex flex-col lg:flex-row min-h-screen gap-12 px-10">
                 <img src={StatsHouse} className="rounded-xl w-11/12 lg:w-1/2"/>
                 <div className="w-full">
-                    <div className="w-96">
+                    <div className="items-center text-container justify-center flex w-11/12 lg:w-1/2">
                         <h1 className="text-3xl font-extrabold text-defaultColor">We Help You To Find Your Dream Home</h1>
                         <br />
-                        <p className="text-sm text-textColor font-semibold">From cozy cottages to luxurious estates, our dedicated team guides you through every step of the journey, ensuring your dream home becomes a reality</p>
+                        <p className="text-sm text-textColor font-semibold text-justify">From cozy cottages to luxurious estates, our dedicated team guides you through every step of the journey, ensuring your dream home becomes a reality</p>
                     </div>
                     <div className="flex gap-10 w-full">
                         <Stats 
