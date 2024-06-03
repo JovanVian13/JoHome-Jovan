@@ -14,8 +14,8 @@ const Statistics = () => {
     });
     return (
         <div className="gap-14" data-aos="fade-right">
-            <h1 className="mt-5 mb-10 text-5xl font-extrabold text-defaultColor text-center">About</h1>
-            <div className="items-center text-container justify-center flex flex-col lg:flex-row min-h-screen gap-12">
+            <h1 className="mt-5 mb-5 text-5xl font-extrabold text-defaultColor text-center">About</h1>
+            <div className="items-center text-container justify-center flex flex-col lg:flex-row min-h-screen gap-12 px-10">
                 <img src={StatsHouse} className="rounded-xl w-11/12 lg:w-1/2"/>
                 <div className="w-full">
                     <div className="w-96">
