@@ -16,7 +16,7 @@ const Statistics = () => {
         <div className="flex gap-14" data-aos="fade-right">
             <h1 className="mt-5 mb-10 text-5xl font-extrabold text-defaultColor text-center">About</h1>
             <div className="items-center text-container justify-center flex flex-col lg:flex-row min-h-screen">
-                <img src={StatsHouse} className="rounded-xl"/>
+                <img src={StatsHouse} className="ounded-xl w-11/12 lg:w-1/2"/>
                 <div className="w-full">
                     <div className="w-96">
                         <h1 className="text-3xl font-extrabold text-defaultColor">We Help You To Find Your Dream Home</h1>
