@@ -14,10 +14,9 @@ const Statistics = () => {
     });
     return (
         <div className="flex gap-14" data-aos="fade-right">
-            <div className="w-1/3 ml-36 flex min-h-screen justify-center items-center">
+            <h1 className="mt-5 mb-10 text-5xl font-extrabold text-defaultColor text-center">About</h1>
+            <div className="items-center text-container justify-center flex flex-col lg:flex-row min-h-screen">
                 <img src={StatsHouse} className="rounded-xl"/>
-            </div>
-            <div className="items-center text-container justify-center flex min-h-screen">
                 <div className="w-full">
                     <div className="w-96">
                         <h1 className="text-3xl font-extrabold text-defaultColor">We Help You To Find Your Dream Home</h1>
