@@ -1,4 +1,3 @@
-import React from "react";
 import StatsHouse from "../assets/img/StatsHouse.jpg";
 import Stats from "./elements/stats";
 import Aos from "aos";

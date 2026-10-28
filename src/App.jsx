@@ -1,5 +1,4 @@
 import './App.css'
-import react from 'react'
 import Navbar from './components/navbar'
 import Header from './components/header'
 import Statistics from './components/statistic'

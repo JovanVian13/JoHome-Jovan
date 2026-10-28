@@ -1,4 +1,3 @@
-import React from "react";
 import ReviewCard from "./elements/reviewcard";
 import customer1 from '../assets/img/customer1.jpg'
 import picture1 from '../assets/img/picture1.jpg'

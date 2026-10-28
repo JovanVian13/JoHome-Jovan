@@ -1,4 +1,3 @@
-import React from "react";
 import { FaLocationDot } from "react-icons/fa6";
 import { TbRulerMeasure } from "react-icons/tb";
 import { IoBedOutline } from "react-icons/io5";
@@ -20,8 +19,8 @@ const HouseCard = ({house, room, size, name, price}) => {
             <div>
                 <h3 className="flex items-center text-xl mb-5 font-bold text-defaultColor gap-2"><FaLocationDot />{name}</h3>
                 <div className="flex gap-16">
-                    <h3 className="flex items-center text-lg mb-5 font-bold text-textColor gap-3"><IoBedOutline className="bg-white rounded-sm text-xl"/> {room} Rooms</h3>
-                    <h3 className="flex items-center text-lg mb-5 font-bold text-textColor gap-3"><TbRulerMeasure className="bg-white rounded-sm text-xl"/> {size} sq feet</h3>
+                    <h3 className="flex items-center text-lg mb-5 font-bold text-textColor gap-3"><IoBedOutline className="bg-white rounded-xs text-xl"/> {room} Rooms</h3>
+                    <h3 className="flex items-center text-lg mb-5 font-bold text-textColor gap-3"><TbRulerMeasure className="bg-white rounded-xs text-xl"/> {size} sq feet</h3>
                 </div>
                 <div className="flex items-center">
                     <Button 

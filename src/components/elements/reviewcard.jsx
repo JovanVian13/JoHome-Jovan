@@ -1,4 +1,3 @@
-import React from "react";
 import { IoMdStar } from "react-icons/io";
 import Aos from "aos";
 import "aos/dist/aos.css";

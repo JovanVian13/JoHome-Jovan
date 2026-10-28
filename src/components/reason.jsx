@@ -1,4 +1,3 @@
-import React from "react";
 import ReasonCard from './elements/reasoncard'
 import { PiMapPinAreaFill } from "react-icons/pi";
 import { BsPersonFillGear } from "react-icons/bs";

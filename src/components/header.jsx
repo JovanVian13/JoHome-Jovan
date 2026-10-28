@@ -1,4 +1,3 @@
-import React from 'react';
 import Button from './elements/button';
 import headerhouse from '../assets/img/headerhouse.jpg'
 import Aos from "aos";
