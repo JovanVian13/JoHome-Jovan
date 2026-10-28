@@ -8,7 +8,7 @@ Built with React 19, TypeScript, Vite and Tailwind CSS 4.
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) 20.19+ or 22.12+ (required by Vite)
+- [Node.js](https://nodejs.org/) 24.x (pinned in `package.json` `engines`; also used by Vercel)
 - npm (comes with Node.js)
 
 ### Setup
